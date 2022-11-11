@@ -1,7 +1,7 @@
 # Challenge
 ## Sheryians Coding School Challenge
 
-This design is created for challenge given by sherians coding school.
+This design is created for challenge given by sheryians coding school.
 
 <i>Responsive for Desktop only.</i>
 
