@@ -1,4 +1,4 @@
-# CollectaCryptoUI
+# Collecta Crypto UI
 
 This design is created for challenge given by sheryians coding school.
 
