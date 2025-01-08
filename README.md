@@ -1,5 +1,4 @@
-# Challenge
-## Sheryians Coding School Challenge
+# CollectaCryptoUI
 
 This design is created for challenge given by sheryians coding school.
 
